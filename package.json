@@ -1,0 +1,16 @@
+{
+  "name": "simon-dice-main",
+  "version": "1.0.0",
+  "description": "Juego Simon Says en html, css y js creado en este tutorial: https://youtu.be/M9NzCWw1VzU",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
