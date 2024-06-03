@@ -122,3 +122,10 @@ body {
 @keyframes spin { 
     100% { transform:rotate(180deg) } 
 }
+
+footer {
+    margin-top: auto; 
+    text-align: center; 
+    background-color: #f0f0f0; 
+    padding: 20px 0; 
+}
