@@ -13,7 +13,8 @@ Tento projekt je jednoduchá implementace klasické hry "Simon Says". Hra generu
 1. Naklonujte repozitář:
 
     ```sh
-    git clone https://github.com/yourusername/simon-says-game.git
+
+    
     ```
 
 2. Přejděte do adresáře projektu:
